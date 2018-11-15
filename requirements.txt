@@ -1,5 +1,9 @@
+<<<<<<< HEAD
   Could not find a version that satisfies the requirement requirements.txt (from versions: )
 No matching distribution found for requirements.txt
+=======
+
+>>>>>>> d7079d0f4fff8fe177a7b5c304bbcd731bd69978
 Click==7.0
 Flask==1.0.2
 itsdangerous==1.1.0
