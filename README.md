@@ -1,21 +1,24 @@
 # api_endpoints.
 
 
-#Create a parcel delivery order
-#Get all parcel delivery orders
-#Get a specific parcel delivery order
-#Cancel a parcel delivery order
+    #Create a parcel delivery order
+    #Get all parcel delivery orders
+    #Get a specific parcel delivery order
+    #Cancel a parcel delivery order
 
 
        
-EndPoint  Functionality
-GET /parcels
-Fetch all parcel delivery orders
-GET /parcels/<parcelId>
-Fetch a specific parcel delivery order
-GET /users/<userId>/parcels
-Fetch all parcel delivery orders by a specific user
-PUT /parcels/<parcelId>/cancel
-Cancel the specific parcel delivery order
-POST /parcels
-Create a parcel delivery order
+Installation
+
+    Copy this repo
+    Open your terminal or CMD
+    cd to the root of this directory
+    If you have a virtual enviroment activate
+    If you dont have one istall the virtual enviroment
+    use the command export FLASK_ENV=production to set your enviroment
+    use the command flask run to start your application if on localhost the app will run on 127.0.0.1:5000
+    @Client smiley The app is now up and running :shipit:
+
+
+    
+
